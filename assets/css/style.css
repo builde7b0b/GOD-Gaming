@@ -57,13 +57,13 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	font-family: 'Lobster', cursive;
 	text-transform: capitalize;
-	color: #27BFD7;
+	color: #131E1F;
 	margin-bottom: 65px;
 }
 h2 {
 	font-family: 'Roboto Slab', serif;
 	font-weight: 700;
-	color: #FFFFFF;
+	color: #131E1F;
 	text-transform: uppercase;
 }
 h3 {
