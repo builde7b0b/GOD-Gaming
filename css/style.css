@@ -367,7 +367,7 @@ a {
    Newsletter section              
 -----------------------------------------*/
 #newsletter {
-    background: url('../images/newsletter-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('https://static.pexels.com/photos/159204/game-controller-joystick-joypad-gamepad-159204.jpeg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -467,7 +467,7 @@ a {
 /* blog single page */
 
 #blog-header {
-    background: url('https://static.pexels.com/photos/51415/pexels-photo-51415-medium.jpeg') 50% 0 repeat-y fixed;
+    background: url('https://static.pexels.com/photos/33390/the-strategy-win-champion-the-championship.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: bottom center;
@@ -1004,4 +1004,6 @@ footer .copyright-text {
 
 }
 
-
+.img-circle {
+    border-radius: 50%;
+}
