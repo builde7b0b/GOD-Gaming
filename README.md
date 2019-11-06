@@ -1,1 +1,1 @@
-# EffortlxssGaming
+# Goonz On Decc Gaming Team
